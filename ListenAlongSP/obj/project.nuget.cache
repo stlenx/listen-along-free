@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "It7YSTZh4KNlGkCCm8EjSneCQ4HWjqkdSRNEcNVId8CUNwj8EfgJDTiLsfOZlJRBvVMAHNSDLHZfyl0XFyGmVw==",
+  "dgSpecHash": "fMdNgdN5hKM7OGtLM9/VGgi7Rrigtt61EiKrzPV3XtfrpgFUnZIBh61YVlcO001NldYRlBCbP9RaDEW1srtsbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bernal\\Documents\\listen-along-free\\ListenAlongSP\\ListenAlongSP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bernal\\.nuget\\packages\\htmlagilitypack\\1.11.29\\htmlagilitypack.1.11.29.nupkg.sha512",
-    "C:\\Users\\Bernal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\Bernal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Bernal\\.nuget\\packages\\restsharp\\106.11.8-alpha.0.12\\restsharp.106.11.8-alpha.0.12.nupkg.sha512"
   ],
   "logs": []
 }
